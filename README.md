@@ -1,8 +1,3 @@
-<table border="0">
-  <tr>
-    <td width="30%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/TechnicalKirtish/Kirtish-Bhavsar/refs/heads/main/ChatGPT%20Image%20Apr%2020%2C%202026%2C%2007_00_20%20PM.jpg" width="100%" style="border-radius: 50%;">
-      <br><br>
       <h3>Kirtish Bhavsar</h3>
       <p>📍 Pune, India</p>
       <a href="https://www.linkedin.com/in/kirtish-bhavsar-959763391/">
