@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Kirtish Bhavsar
 
 🎯 **Marketing Analyst | Data Analyst | Product Analytics Enthusiast**
-🎙️ Podcast Creator with **50K+ followers**
 ---
 ## 🚀 About Me
 
