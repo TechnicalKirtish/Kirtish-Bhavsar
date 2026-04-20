@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechnicalKirtish/Kirtish-Bhavsar/refs/heads/main/ChatGPT%20Image%20Apr%2020%2C%202026%2C%2007_00_20%20PM.jpg" width="180"/>
+</p>
+
 # 👋 Hi, I'm Kirtish Bhavsar
 
 🎯 **Marketing Analyst | Data Analyst | Product Analytics Enthusiast**
